@@ -126,7 +126,7 @@ const Tools = () => {
             p: 1,
           }}
         >
-          <Typography sx={{ textAlign: "center", fontSize: "12px" }}>
+          <Typography sx={{ textAlign: "center", fontSize: "12px", color:"#fff" }}>
             Tailwind CSS
           </Typography>
           <Image alt='ReactJs' src='/tailwind.jpg' width={75} height={60} />
