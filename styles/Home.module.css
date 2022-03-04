@@ -114,3 +114,9 @@
     flex-direction: column;
   }
 }
+
+/* .imageWrap {
+  filter: blur("2px");
+  position: "relative";
+  z-index: -1;
+} */
