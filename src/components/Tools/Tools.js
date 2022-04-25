@@ -90,7 +90,7 @@ const Tools = () => {
           }}
         >
           <Typography sx={{ textAlign: "center", color: "#fff" }}>
-            MaerialUI
+            MaterialUI
           </Typography>
           <Image alt='ReactJs' src='/mui.png' width={75} height={60} />
         </Box>
